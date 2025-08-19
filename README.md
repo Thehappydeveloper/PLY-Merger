@@ -1,4 +1,4 @@
-# Dual 8i PLY Video Merger
+# Dual PLY Video Merger
 
 This repository provides a workflow for merging sequences of PLY point cloud frames (such as 8i Voxelized Full Bodies) into a single dataset using [Open3D](http://www.open3d.org/). It supports optional shifting, downsampling, and visualization.  
 A special script is provided to merge **four point cloud folders into a square layout** using Docker.
